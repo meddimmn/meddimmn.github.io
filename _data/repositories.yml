@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - meddimmn
 
 repo_description_lines_max: 2
 
-github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+# Add repositories to showcase as "owner/name", then uncomment:
+# github_repos:
+#   - meddimmn/your-repo
